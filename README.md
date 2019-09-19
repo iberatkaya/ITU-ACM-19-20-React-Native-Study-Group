@@ -18,7 +18,7 @@ Learning to build a React Native Application.
 
 |  #Date |  #Topic  | #Description  |
 | :------------: | :------------: | :------------: |
-| 1 September 2019 | JavaScript and React Native. | Setting up React Native, simple information about ES6, ES7, and React Native. |
+| 1 September 2019 | JavaScript and React Native. | Installation of React Native, simple information about ES6, ES7, and React Native. |
 | 1 September 2019  | React Components, Libraries and Project Hierarchy.  | Information about React Native Components, Libraries, and overall project hierarchy.   |
 | 1 September 2019  |  Starting The Project.  | Learning about the most used React Native Components, and API calls.   |
 | 1 September 2019  |  Navigation in React Native.  | Information about the React Navigation library.  |
