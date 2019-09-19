@@ -33,7 +33,7 @@ Classrooms and dates will be announced.
 # Important Links
 
 [playcode.io](https://playcode.io/online-javascript-editor) - An online JavaScript editor to practice. 
-[playcode.io](https://facebook.github.io/react-native/docs/getting-started) - Installation process for React Native. 
+[Installation](https://facebook.github.io/react-native/docs/getting-started) - Installation process for React Native. 
 
 # Suggested Readings
 
