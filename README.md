@@ -1,54 +1,46 @@
-[![](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)
-
 ### Instructors
 
-**Your Name and Surname**
-
-*Computer Engineering #4 @I.T.U*
-
-[*LinkedIn*](https://www.linkedin.com/in/)
-
-**Your Name and Surname**
+**Ibrahim Berat Kaya**
 
 *Computer Engineering #3 @I.T.U*
 
-[*LinkedIn*](https://www.linkedin.com/in/)
+[*LinkedIn*](https://www.linkedin.com/in/ibrahim-berat-kaya-0510b6193/)
 
 
 ### Prerequisities
-1. Basic knowledge about any programming language.
-2. so on...
+1. Basic knowledge about JavaScript.
 
 ### Goal
 
-goals about program...
+Learning to build a React Native Application.
 
 ### Syllabus
 
 |  #Date |  #Topic  | #Description  |
 | :------------: | :------------: | :------------: |
-| 1 September 2019 | Basit javascript, React Native kurulumu ve react native eğitimi. | React Native kurulumunda yardım, basit seviyede ES6, ES7 anlatımı, React Native tarihçesi, çalışma prensibi ve basit giriş |
-| 1 September 2019  | React Native egitimine devam.  | React Native projelerinin genel hiyerarşisi, Componentler ve Kütüphaneler  |
-| 1 September 2019  |  Exchange Rate App baslangic.  | Projeye başlangıç. Kullanışlı Componentler ve API çağırmaları hakkında genel bilgiler  |
-| 1 September 2019  |  Exchange Rate App e navigation ekleme.  | React Navigation kütüphanesi hakkında genel bilgiler  |
-| 1 September 2019  |Exchange Rate App design.  | Component tasarımı hakkında genel bilgiler  |
-| 1 September 2019  |  React ve Flutter hakkinda kisa bilgiler. |  Play Store'a uygulama deploylama, Frontend için kullanılan React ve başka bir Cross-Platform olan Flutter hakkınfa kısa bilgiler |
+| 1 September 2019 | JavaScript and React Native | Setting up React Native, simple information about ES6, ES7, and React Native |
+| 1 September 2019  | React Components, Libraries and Project Hierarchy  | Information about React Native Components, Libraries, and overall project hierarchy.   |
+| 1 September 2019  |  Starting The Project.  | Learning about the most used React Native Components, and API calls.   |
+| 1 September 2019  |  Navigation in React Native.  | Information about the React Navigation library.  |
+| 1 September 2019  |  Styling in React Native.  | Styling the application.  |
+| 1 September 2019  |  Short Info About Deploying An App, React and Flutter. |  Info about deploying an App to the Play Store, React, and Flutter.  |
 
 
-<p align="center"><b>Lessons will be around 1:30 - 2 hours</b></p>
+<p align="center"><b>Lessons will be around 1 - 1:15 hours</b></p>
 
-(Lectures will be in ITU Faculty of Chemical and Metallurgical Engineering classroom D205 at every Thursday 17.30)
+Classrooms and dates will be announced.
 
 # Important Links
 
-You can add links here about your program...
+[playcode.io](https://playcode.io/online-javascript-editor) - An online JavaScript editor to practice. 
+[playcode.io](https://facebook.github.io/react-native/docs/getting-started) - Installation process for React Native. 
 
 # Suggested Readings
 
-You can add readings here about your program...
+TBA
 
 # Project
-Short project details. For more information visit the [Project file](/Project)
+TBA
 
 
 <p align="center">
