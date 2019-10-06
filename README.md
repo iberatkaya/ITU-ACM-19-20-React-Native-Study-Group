@@ -22,7 +22,7 @@ Learning to build a React Native Application.
 | 17 October 2019  | React Components, Libraries and Project Hierarchy.  | Information about React Native Components, Libraries, and overall project hierarchy.   |
 | 24 October 2019  |  Starting The Project.  | Learning about the most used React Native Components, and API calls.   |
 | 21 November 2019  |  Navigation in React Native.  | Information about the React Navigation library.  |
-| 28 November September 2019  |  Styling in React Native.  | Styling the application.  |
+| 28 November 2019  |  Styling in React Native.  | Styling the application.  |
 | 5 December 2019  |  Short Info About Deploying An App, React and Flutter. |  Info about deploying an App to the Play Store, React, and Flutter.  |
 
 
