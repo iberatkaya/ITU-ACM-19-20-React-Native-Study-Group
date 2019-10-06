@@ -18,17 +18,17 @@ Learning to build a React Native Application.
 
 |  #Date |  #Topic  | #Description  |
 | :------------: | :------------: | :------------: |
-| 1 September 2019 | JavaScript and React Native. | Installation of React Native, simple information about ES6, ES7, and React Native. |
-| 1 September 2019  | React Components, Libraries and Project Hierarchy.  | Information about React Native Components, Libraries, and overall project hierarchy.   |
-| 1 September 2019  |  Starting The Project.  | Learning about the most used React Native Components, and API calls.   |
-| 1 September 2019  |  Navigation in React Native.  | Information about the React Navigation library.  |
-| 1 September 2019  |  Styling in React Native.  | Styling the application.  |
-| 1 September 2019  |  Short Info About Deploying An App, React and Flutter. |  Info about deploying an App to the Play Store, React, and Flutter.  |
+| 10 October 2019 | JavaScript and React Native. | Installation of React Native, simple information about ES6, ES7, and React Native. |
+| 17 October 2019  | React Components, Libraries and Project Hierarchy.  | Information about React Native Components, Libraries, and overall project hierarchy.   |
+| 24 October 2019  |  Starting The Project.  | Learning about the most used React Native Components, and API calls.   |
+| 21 November 2019  |  Navigation in React Native.  | Information about the React Navigation library.  |
+| 28 November September 2019  |  Styling in React Native.  | Styling the application.  |
+| 5 December 2019  |  Short Info About Deploying An App, React and Flutter. |  Info about deploying an App to the Play Store, React, and Flutter.  |
 
 
 <p align="center"><b>Lessons will be around 1 - 1:15 hours</b></p>
 
-Classrooms and dates will be announced.
+The classroom will be EEB 5101.
 
 # Important Links
 
